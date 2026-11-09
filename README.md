@@ -1,4 +1,4 @@
-Config Sec Guard (หรือใส่ชื่อที่เลือก)
+Config Sec Guard 
 
 Lightweight Python script designed to scan configuration files (`.env`, `json`, etc.) for hardcoded secrets, sensitive credentials, and insecure debug settings. Built to help developers catch security risks early.
 
